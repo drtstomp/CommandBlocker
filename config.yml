@@ -1,0 +1,13 @@
+# drtstunn's CommandBlocker configuration file.
+
+
+deny_message: '&cYou are not permitted to use this command.'
+allow_permission: 'commandblock.run'
+blocked_commands:
+- '/?'
+- '/pl'
+- '/plugins'
+- '/ver'
+- '/version'
+- '/bukkit:'
+- '/essentials:'

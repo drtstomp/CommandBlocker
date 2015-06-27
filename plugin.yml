@@ -1,0 +1,5 @@
+name: CommandBlocker
+description: drtstunn's CommandBlocker plugin
+version: 1.0.0
+authors: drtstunn
+main: me.drtstunn.commandblocker.Main
